@@ -7,7 +7,7 @@ The general purpose of the study is to utilize Google colab, SQL, and python in 
 
 Going over the results we found the following data:
 
-[results](https://github.com/nicbrownrigg/Amazon_Vine_Analysis/blob/main/results.PNG)
+![results](https://github.com/nicbrownrigg/Amazon_Vine_Analysis/blob/main/results.PNG)
 
 - There were 40,471 unpaid reviews, and 94 paid reviews.
 
